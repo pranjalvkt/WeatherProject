@@ -5,7 +5,9 @@ const path = require("path");
 const app = express();
 const port = 80;
 const NewsAPI = require("newsapi");
-const newsapi = new NewsAPI("018fb5375692434d874dcb07fedd492d");
+
+
+const newsapi = new NewsAPI(""); // Enter your api key between double quotes.
 
 app.use(bodyParser.urlencoded({ extended: true }));
 // PUG SPECIFIC STUFF
