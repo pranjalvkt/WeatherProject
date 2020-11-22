@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div {
+    text-align: center;
+}
+h1{
+    padding: 30px;
+}
+h2{
+    margin-top: 7px;
+    padding: 20px;
+}
+form {
+    position: absolute;
+    top: 10px;
+    margin-top: 30px;
+    left: 40px;
+} 
+.floatright {
+    /* float: right; */
+    margin-top: 0px;
+    /* background-color: #00ff00; */
+    /* height: 80px; */
+    width: 20%;
+    position: relative;
+    left: 595px;
+    padding: 40px;
+}
