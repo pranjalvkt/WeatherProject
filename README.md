@@ -1,4 +1,4 @@
-<h1>Weather Application</h1>
+<h1>Clima Website</h1>
 
 <ul>
 <li>Developed using HTML5, CSS3, JS & Node.js</li>
